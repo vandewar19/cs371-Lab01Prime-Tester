@@ -87,4 +87,12 @@
         android:layout_gravity="center_horizontal"
         android:layout_weight="0.63" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="@string/kitten_caption"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal" />
+
 </LinearLayout>
